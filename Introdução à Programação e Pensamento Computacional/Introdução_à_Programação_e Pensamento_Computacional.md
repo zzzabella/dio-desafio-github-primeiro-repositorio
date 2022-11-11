@@ -116,8 +116,8 @@
     
     - **Enquanto ... faça
       
-           Repita ... até
-           Para ... de … até … faça***
+       Repita ... até
+       Para ... de … até … faça***
 
 ## 7. Vetores e Matrizes
 
@@ -168,3 +168,53 @@
   - Programa fonte executado diretamente
   
   - Maior flexibilidade
+
+## 11. Análises de Código
+
+- **Análise Léxica:**
+  
+  - Particionar elementos denominados tokens
+  
+  - Classificar por identificadores
+  
+  - Eliminar caracteres, comentários, etc.
+
+- **Análise Sintática:** 
+  
+  - Componente do sistema linguístico que interligam os
+    constituintesda sentença, atribuindo-lhe uma estrutura
+
+- **Análise Semântica:**
+  
+  - Incide sobre a relação entre significantes (palavras, frases, etc.)
+
+## 12. Paradigmas de Programação
+
+- **Paradigma:**
+  
+  - Forma de resolução de problemas com diretrizes e limitações específicas de cada paradigma utilizando linguagem de programação
+
+- **Classificação:**
+  
+  - Procedural: Chamadas sucessivas e procedimentos separados
+  
+  - Funcional: Instruções baseadas em funções
+  
+  - Estruturado: Estrutura em blocos
+    
+    - Sequência
+    
+    - Decisão
+    
+    - Iteração
+  
+  - Computação Distribuída: Funções executadas de forma independente
+  
+  - Orientação à Objeto: Baseado na utilização de objetos
+    e suas interações
+    
+    - O que tenho
+    
+    - Sou capaz de fazer
+    
+    - Como faço
