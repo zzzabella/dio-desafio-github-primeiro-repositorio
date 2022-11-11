@@ -1,10 +1,4 @@
-
-
-
-
 # Introdução à Programação e Pensamento Computacional
-
-
 
 ## 1. Conceitos Básicos
 
@@ -29,8 +23,6 @@
   
   - Automatizar/Definir passo a passo a solução do problema
 
-
-
 ## 2. Habilidades
 
 - **Raciocínio lógico:** 
@@ -41,15 +33,13 @@
   
   - A partir de uma solução, determinar pontos de melhora e refinamento
 
-
-
 ## 3. Técnicas de Lógica de Programação
 
 - **Técnica linear:** 
   
   - Modelo tradicional
   
-  -  Não tem vínculo (Estrutura hierárquica)
+  - Não tem vínculo (Estrutura hierárquica)
   
   - Execução sequencial
 
@@ -61,8 +51,6 @@
   
   - Partes independentes; Controlada por um conjunto de regras
 
-
-
 ## 4. Fundamentos de Algoritmos
 
 - **Variável:** 
@@ -72,8 +60,6 @@
 - **Instruções:** 
   
   - Linguagem de palavras-chave (vocabulário) de uma determinada de programação que tem por finalidade comandar um computador que irá tratar os dados
-  
-  
 
 ## 5. Estrutura Condicional e Operadores
 
@@ -122,8 +108,6 @@
     
     - NOT: Operador de negação; Inversão do resultado lógico
 
-
-
 ## 6. Estruturas de Repetição
 
 - **O que são?** 
@@ -131,10 +115,9 @@
   - Condições de parada em um trecho de um programa com um número de repetições pré-fixada  até uma condição ser satisfeita
     
     - **Enquanto ... faça
+      
            Repita ... até
            Para ... de … até … faça***
-
-
 
 ## 7. Vetores e Matrizes
 
@@ -145,16 +128,12 @@
 - **Matriz:** 
   
   - Uma tabela organizada em linhas e colunas no formato m x n, onde m representa o número de linhas (horizontal) e n o número de colunas (vertical)
-  
-  
 
 ## 8. Funções
 
 - **O que são?** 
   
   - São blocos de instruções que realizam tarefas específicas
-  
-  
 
 ## 9. Instruções de Entrada/Saída
 
@@ -165,8 +144,6 @@
 - **Saída:** 
   
   - Consiste na impressão dos dados do mundo abstrato, digital por meio de ação de alguma interface
-  
-  
 
 ## 10. Linguagem de Programação
 
