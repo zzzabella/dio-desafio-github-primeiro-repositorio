@@ -4,6 +4,6 @@ Desafio de Projeto sobre Git/GitHub
 
 ## Cursos
 
-- [Introdução à Programação e Pensamento Computacional](C:\DIO\Desafios de Código\dio-desafio-github-primeiro-repositorio\Introdução à Programação e Pensamento Computacional\Introdução à Programação e Pensamento Computacional.md)
+- [Introdução à Programação e Pensamento Computacional](Introdução à Programação e Pensamento Computacional.md)
 
 - Introdução ao Git e a GitHub
